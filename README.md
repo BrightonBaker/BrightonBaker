@@ -1,4 +1,4 @@
-<h1>Hello. I'm Brighton. <br/><a href="https://github.com/BrightonBaker">PC Builder</a>, <a href="https://www.linkedin.com/in/brighton-baker/">Information Technology Intern</a></h1>
+<h1>I'm Brighton. <br/><a href="https://github.com/BrightonBaker">PC Builder</a>, <a href="https://www.linkedin.com/in/brighton-baker/">Information Technology Intern</a></h1>
 
 <h2>🖥 Information Technology Projects:</h2>
 
@@ -16,6 +16,11 @@
 <h2>📷 Meta Reels Photography Passion Projects </h2>
 
 - [Life Experiences](https://www.facebook.com/reel/5916425741723744)
+#
+<details>
+ <summary><h3>🧔 My Journey</h3></summary>
+ At a younger age, I became invested in work and was determined to find a strong work ethic. I started by working in real estate by renovating rental properties when tenants moved out. This essentially was modernizing the property to meet socioeconomic expectations and raise the value of the property and thus rental income. Doing so, I became more interested in research and used technology to advance my expertise. This brought me to the scene of building computers and troubleshooting operating systems which was primarily Windows at the time. As I gained more interest in building my own PCs with ordered hardware and troubleshooting hardware, I began to branch out and become the main person troubleshooting tech in my family. As this grew, I built experience in hardware and software troubleshooting where I would scale my experience to niche categories and develop valuable information technology traits. My next investment in technology took place as I moved to working with virtual machines and eventually even dual-booting Linux and Windows 10 to my primary home computer rig. I gained satisfaction from experimenting with different operating systems, finding their different weaknesses and strengths, which I gathered as experience and a certain degree of appreciation of the different ecosystems. I realized the reliability but overwhelming and seemingly unsolvable system bugs of Windows 10 that forums users could never get around without resetting the PC, or the scarcity of Linux when using the terminal until I realized that the Debian platform which many Linux distributions use may never even require terminal usage which seemed pleasing to Linux beginners and users which came from the Microsoft-ran Windows OS that has defined computers for decades. This cycle of researching online to find answers, consuming videos on technology and its rapid expansion, and building computers is a lead to my presence today as I'm pursuing a degree in business and a desire to work in the technology industry where I hope to collaborate with system administrator's, network administrator's, and people that fit into this work lifestyle that binds my enjoyment in life. 
+</details>
 
 <h2> 👫 Connect with me:</h2>
 
