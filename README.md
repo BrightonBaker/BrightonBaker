@@ -17,13 +17,14 @@
 
 [<img align="left" alt="BrightonBaker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BrightonBaker | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="BrightonBaker | Instagram" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg)" />][Instagram]
+[<img align="left" alt="BrightonBaker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
 
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/brighton_baker/
+[Instagram]: https://www.instagram.com/brighton_baker/
 [linkedin]: https://linkedin.com/in/brighton-baker
+[Facebook]: https://www.facebook.com/BrightonBaker2/
 
 <!--
 **BrightonBaker/BrightonBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
