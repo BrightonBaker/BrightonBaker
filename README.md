@@ -1,4 +1,4 @@
-<h1>Hello. I'm Brighton. <br/><a href="https://github.com/BrightonBaker">PC Builder</a>, <a href="https://www.linkedin.com/in/brighton-baker/">Information Technology Intern</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello. I'm Brighton. <br/><a href="https://github.com/BrightonBaker">PC Builder</a>, <a href="https://www.linkedin.com/in/brighton-baker/">Information Technology Intern</a></h1>
 
 <h2>🖥 Information Technology Projects:</h2>
 
